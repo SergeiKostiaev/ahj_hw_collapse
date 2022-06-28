@@ -1,7 +1,5 @@
 # Анимации и CSS
 
- [![Build status](https://ci.appveyor.com/api/projects/status/ttn1toub0x5i1fdi?svg=true)](https://ci.appveyor.com/project/igor-chazov/ahj-hw-anim) [[Github Pages](https://igor-chazov.github.io/ahj-hw-anim)]
- 
 ---
 
 ### Collapse
@@ -18,7 +16,7 @@
 
 ---
 
-### Callback Chat* (задача со звёздочкой)
+### Callback Chat\* (задача со звёздочкой)
 
 #### Легенда
 
