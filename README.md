@@ -1,6 +1,6 @@
 # Анимации и CSS
 
----
+## [![Build status](https://ci.appveyor.com/api/projects/status/x5j7lnu6yo4ekuoo/branch/main?svg=true)](https://ci.appveyor.com/project/SergeiKostiaev/ahj-hw-collapse/branch/main)
 
 ### Collapse
 
